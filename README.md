@@ -2,6 +2,7 @@
 
 REST API creada con Python, el framework web Django y el SGBD MySQL, con el protocolo HTTP y los método GET, POST, PUT y DELETE.
 
+[Link al video](https://www.youtube.com/watch?v=hL52_nB5QSw&ab_channel=UskoKruM2010)
 <br/>
 
 ![](./preview1.png)
